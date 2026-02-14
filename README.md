@@ -1,5 +1,3 @@
-Live: https://josephus-problem-solver.onrender.com/
-
 # Josephus Problem Solver
 
 An interactive visualization of the Josephus problem built using
